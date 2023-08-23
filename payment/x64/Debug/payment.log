@@ -1,0 +1,9 @@
+﻿  server.c
+C:\Users\click\Desktop\Payment Console App\payment\Terminal\card.h(11,35): warning C4142: 'uint32_t': benign redefinition of type
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.37.32822\include\stdint.h(24,28): message : see declaration of 'uint32_t'
+C:\Users\click\Desktop\Payment Console App\payment\Terminal\standard_types.h(19,36): warning C4142: 'uint32_t': benign redefinition of type
+C:\Users\click\Desktop\Payment Console App\payment\Terminal\card.h(11,27): message : see declaration of 'uint32_t'
+C:\Users\click\Desktop\Payment Console App\payment\Server\server.c(147,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\click\Desktop\Payment Console App\payment\Server\server.c(157,11): warning C4047: 'function': 'char *' differs in levels of indirection from 'uint8_t (*)[20]'
+C:\Users\click\Desktop\Payment Console App\payment\Server\server.c(157,11): warning C4024: 'strcpy': different types for formal and actual parameter 1
+  payment.vcxproj -> C:\Users\click\Desktop\Payment Console App\payment\x64\Debug\payment.exe
